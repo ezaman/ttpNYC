@@ -15,6 +15,7 @@
 		8FB6EF331E56028000FFEB7C /* PageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB6EF321E56028000FFEB7C /* PageCell.swift */; };
 		8FB6EF351E56401300FFEB7C /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB6EF341E56401300FFEB7C /* Page.swift */; };
 		8FB6EF371E566F8A00FFEB7C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB6EF361E566F8A00FFEB7C /* Extensions.swift */; };
+		8FB6EF391E57447100FFEB7C /* LoginCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB6EF381E57447100FFEB7C /* LoginCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8FB6EF321E56028000FFEB7C /* PageCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageCell.swift; sourceTree = "<group>"; };
 		8FB6EF341E56401300FFEB7C /* Page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 		8FB6EF361E566F8A00FFEB7C /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		8FB6EF381E57447100FFEB7C /* LoginCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8FB6EF201E5500AF00FFEB7C /* AppDelegate.swift */,
 				8FB6EF221E5500B000FFEB7C /* ViewController.swift */,
 				8FB6EF321E56028000FFEB7C /* PageCell.swift */,
+				8FB6EF381E57447100FFEB7C /* LoginCell.swift */,
 				8FB6EF341E56401300FFEB7C /* Page.swift */,
 				8FB6EF241E5500B000FFEB7C /* Main.storyboard */,
 				8FB6EF361E566F8A00FFEB7C /* Extensions.swift */,
@@ -150,6 +153,7 @@
 				8FB6EF211E5500AF00FFEB7C /* AppDelegate.swift in Sources */,
 				8FB6EF351E56401300FFEB7C /* Page.swift in Sources */,
 				8FB6EF331E56028000FFEB7C /* PageCell.swift in Sources */,
+				8FB6EF391E57447100FFEB7C /* LoginCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
