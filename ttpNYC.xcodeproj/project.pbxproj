@@ -108,6 +108,7 @@
 				TargetAttributes = {
 					8FB6EF1C1E5500AF00FFEB7C = {
 						CreatedOnToolsVersion = 8.1;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -317,6 +318,7 @@
 				8FB6EF311E5500B000FFEB7C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

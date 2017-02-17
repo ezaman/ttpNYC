@@ -41,7 +41,7 @@ class PageCell: UICollectionViewCell {
     
     let imageView: UIImageView = {
         let iv = UIImageView()
-        iv.contentMode = .scaleAspectFill
+        iv.contentMode = .scaleToFill
         iv.backgroundColor = .yellow
         iv.image = UIImage.init(named: "logo1")
         iv.clipsToBounds = true

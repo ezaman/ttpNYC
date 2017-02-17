@@ -2,7 +2,7 @@
 //  LoginCell.swift
 //  ttpNYC
 //
-//  Created by Ehsan Zaman on 2/17/17.
+//  Created by Ehsan Zaman on 2/12/17.
 //  Copyright © 2017 Ehsan Zaman. All rights reserved.
 //
 
@@ -51,7 +51,7 @@ class LoginCell: UICollectionViewCell {
         addSubview(passwordTextField)
         addSubview(loginButton)
         
-        _ = logoImageView.anchor(centerYAnchor, left: nil, bottom: nil, right: nil, topConstant: -230, leftConstant: 0, bottomConstant: 0, rightConstant: 0, widthConstant: 160, heightConstant: 160)
+        _ = logoImageView.anchor(centerYAnchor, left: nil, bottom: nil, right: nil, topConstant: -230, leftConstant: 0, bottomConstant: 0, rightConstant: 0, widthConstant: 120, heightConstant: 120)
         logoImageView.centerXAnchor.constraint(equalTo: centerXAnchor).isActive = true
         
         _ = emailTextField.anchor(logoImageView.bottomAnchor, left: leftAnchor, bottom: nil, right: rightAnchor, topConstant: 8, leftConstant: 32, bottomConstant: 0, rightConstant: 32, widthConstant: 0, heightConstant: 50)
